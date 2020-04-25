@@ -35,12 +35,4 @@
 #    url = "files/cv.pdf"
 #    weight = 70
 
-#[[main]]
-#  name = "Publications"
-#  url = "Publications/"
-#  weight = 20
 
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
