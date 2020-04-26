@@ -4,7 +4,7 @@ summary: this is a page describing the contact information of Donghao
 date: "2020-04-26T19:45:00Z"
 type: "widget_page"
 
-headless: false
+# headless: false
 
 # Optional header image (relative to `static/img/` folder).
 header:
